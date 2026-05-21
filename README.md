@@ -264,4 +264,4 @@ Architecture:    RAG, Brand Brain (custom), agentic workflows
 
 ---
 
-*These are independent side projects built outside of my work at JPMorgan Chase. All code, architecture decisions, and deployments are my own.*
+*These are all my personal learning projects. All code, architecture decisions, and deployments are my own.*
