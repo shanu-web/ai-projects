@@ -2,7 +2,7 @@
 
 > Production AI systems I've designed and built independently — from autonomous marketing agents to voice-first GenAI for Indian farmers.
 
-**I'm an AVP (SDE III) at JPMorgan Chase by day.** These are my personal learning projects where I explore agentic AI, knowledge architectures, and multilingual LLM systems — shipping real products to real users.
+**I'm an AVP (SDE III) at JPMorgan Chase by day.** These are are my personal learning projects where I explore agentic AI, knowledge architectures, and multilingual LLM systems — shipping real products to real users.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shanu_Choudhary-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shanu-connect/)
 [![Medium](https://img.shields.io/badge/Medium-@chshanu97-black?style=flat&logo=medium)](https://medium.com/@chshanu97)
@@ -237,6 +237,7 @@ Supports 25+ languages in native script (Devanagari, Arabic, Tamil, etc.)
 ## 🔗 Published Writing
 
 - **[Why Baseline RAG Fails in Production — And What I Built Instead](https://medium.com/@chshanu97/why-baseline-rag-fails-in-production-and-what-i-built-instead-f8235c02ac57)** — Deep dive into Brand Brain architecture and the three failures of baseline RAG
+- **[RAG Is Not a Default. Here's When It Actually Earns Its Place.](https://medium.com/@chshanu97/rag-is-not-a-default-heres-when-it-actually-earns-its-place-d3ff7fafe4e8)** — When to use RAG vs long-context vs agentic retrieval — a decision framework from production experience
 
 ---
 
@@ -264,4 +265,4 @@ Architecture:    RAG, Brand Brain (custom), agentic workflows
 
 ---
 
-*These are all my personal learning projects. All code, architecture decisions, and deployments are my own.*
+*These are my personal leraning projects. All code, architecture decisions, and deployments are my own.*
